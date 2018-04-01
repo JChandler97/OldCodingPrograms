@@ -1,0 +1,13 @@
+C:\Users\james\source\repos\DiscordRoleBot\DiscordRoleBot\bin\Release\netcoreapp1.1\DiscordRoleBot.deps.json
+C:\Users\james\source\repos\DiscordRoleBot\DiscordRoleBot\bin\Release\netcoreapp1.1\DiscordRoleBot.runtimeconfig.json
+C:\Users\james\source\repos\DiscordRoleBot\DiscordRoleBot\bin\Release\netcoreapp1.1\DiscordRoleBot.runtimeconfig.dev.json
+C:\Users\james\source\repos\DiscordRoleBot\DiscordRoleBot\bin\Release\netcoreapp1.1\DiscordRoleBot.dll
+C:\Users\james\source\repos\DiscordRoleBot\DiscordRoleBot\bin\Release\netcoreapp1.1\DiscordRoleBot.pdb
+C:\Users\james\source\repos\DiscordRoleBot\DiscordRoleBot\obj\Release\netcoreapp1.1\DiscordRoleBot.csprojResolveAssemblyReference.cache
+C:\Users\james\source\repos\DiscordRoleBot\DiscordRoleBot\obj\Release\netcoreapp1.1\DiscordRoleBot.BotInfo.resources
+C:\Users\james\source\repos\DiscordRoleBot\DiscordRoleBot\obj\Release\netcoreapp1.1\DiscordRoleBot.csproj.GenerateResource.Cache
+C:\Users\james\source\repos\DiscordRoleBot\DiscordRoleBot\obj\Release\netcoreapp1.1\DiscordRoleBot.csproj.CoreCompileInputs.cache
+C:\Users\james\source\repos\DiscordRoleBot\DiscordRoleBot\obj\Release\netcoreapp1.1\DiscordRoleBot.AssemblyInfo.cs
+C:\Users\james\source\repos\DiscordRoleBot\DiscordRoleBot\obj\Release\netcoreapp1.1\DiscordRoleBot.dll
+C:\Users\james\source\repos\DiscordRoleBot\DiscordRoleBot\obj\Release\netcoreapp1.1\DiscordRoleBot.pdb
+C:\Users\james\source\repos\DiscordRoleBot\DiscordRoleBot\obj\Release\netcoreapp1.1\DiscordRoleBot.AssemblyInfoInputs.cache
