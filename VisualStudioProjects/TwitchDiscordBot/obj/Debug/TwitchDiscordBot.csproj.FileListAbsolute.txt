@@ -1,0 +1,100 @@
+C:\Users\James\Source\Workspaces\TwitchDiscordBot\Main\TwitchDiscordBot\TwitchDiscordBot\obj\Debug\TwitchDiscordBot.csprojResolveAssemblyReference.cache
+C:\Users\James\Source\Workspaces\TwitchDiscordBot\Main\TwitchDiscordBot\TwitchDiscordBot\bin\Debug\TwitchDiscordBot.exe.config
+C:\Users\James\Source\Workspaces\TwitchDiscordBot\Main\TwitchDiscordBot\TwitchDiscordBot\bin\Debug\TwitchDiscordBot.exe
+C:\Users\James\Source\Workspaces\TwitchDiscordBot\Main\TwitchDiscordBot\TwitchDiscordBot\bin\Debug\TwitchDiscordBot.pdb
+C:\Users\James\Source\Workspaces\TwitchDiscordBot\Main\TwitchDiscordBot\TwitchDiscordBot\bin\Debug\Discord.Net.Commands.dll
+C:\Users\James\Source\Workspaces\TwitchDiscordBot\Main\TwitchDiscordBot\TwitchDiscordBot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\James\Source\Workspaces\TwitchDiscordBot\Main\TwitchDiscordBot\TwitchDiscordBot\bin\Debug\Nito.AsyncEx.Concurrent.dll
+C:\Users\James\Source\Workspaces\TwitchDiscordBot\Main\TwitchDiscordBot\TwitchDiscordBot\bin\Debug\Nito.AsyncEx.dll
+C:\Users\James\Source\Workspaces\TwitchDiscordBot\Main\TwitchDiscordBot\TwitchDiscordBot\bin\Debug\Nito.AsyncEx.Enlightenment.dll
+C:\Users\James\Source\Workspaces\TwitchDiscordBot\Main\TwitchDiscordBot\TwitchDiscordBot\bin\Debug\WebSocket4Net.dll
+C:\Users\James\Source\Workspaces\TwitchDiscordBot\Main\TwitchDiscordBot\TwitchDiscordBot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\James\Source\Workspaces\TwitchDiscordBot\Main\TwitchDiscordBot\TwitchDiscordBot\bin\Debug\Nito.AsyncEx.xml
+C:\Users\James\Source\Workspaces\TwitchDiscordBot\Main\TwitchDiscordBot\TwitchDiscordBot\bin\Debug\Nito.AsyncEx.Concurrent.xml
+C:\Users\James\Source\Workspaces\TwitchDiscordBot\Main\TwitchDiscordBot\TwitchDiscordBot\bin\Debug\Nito.AsyncEx.Enlightenment.xml
+C:\Users\James\Source\Workspaces\TwitchDiscordBot\Main\TwitchDiscordBot\TwitchDiscordBot\obj\Debug\TwitchDiscordBot.exe
+C:\Users\James\Source\Workspaces\TwitchDiscordBot\Main\TwitchDiscordBot\TwitchDiscordBot\obj\Debug\TwitchDiscordBot.pdb
+C:\Users\James\Source\Workspaces\TwitchDiscordBot\Main\TwitchDiscordBot\TwitchDiscordBot\bin\Debug\DiscordTwitchHookInfo.mdf
+C:\Users\James\Source\Workspaces\TwitchDiscordBot\Main\TwitchDiscordBot\TwitchDiscordBot\bin\Debug\DiscordTwitchHookInfo_log.ldf
+C:\Users\James\Source\Workspaces\TwitchDiscordBot\Main\TwitchDiscordBot\TwitchDiscordBot\bin\Debug\TwitchLib.dll
+C:\Users\James\Source\Workspaces\TwitchDiscordBot\Main\TwitchDiscordBot\TwitchDiscordBot\bin\Debug\websocket-sharp.dll
+C:\Users\James\Source\Workspaces\TwitchDiscordBot\Main\TwitchDiscordBot\TwitchDiscordBot\bin\Debug\TwitchLib.xml
+C:\Users\James\Source\Workspaces\TwitchDiscordBot\Main\TwitchDiscordBot\TwitchDiscordBot\obj\Debug\TwitchDiscordBot.TwitchBotInfo.resources
+C:\Users\James\Source\Workspaces\TwitchDiscordBot\Main\TwitchDiscordBot\TwitchDiscordBot\obj\Debug\TwitchDiscordBot.csproj.GenerateResource.Cache
+C:\Users\James\Source\Workspaces\TwitchDiscordBot\Main\TwitchDiscordBot\TwitchDiscordBot\obj\Debug\TwitchDiscordBot.DiscordBotInfo.resources
+C:\Users\James\Source\Workspaces\TwitchDiscordBot\Main\TwitchDiscordBot\TwitchDiscordBot\bin\Debug\Discord.Net.Core.dll
+C:\Users\James\Source\Workspaces\TwitchDiscordBot\Main\TwitchDiscordBot\TwitchDiscordBot\bin\Debug\Discord.Net.Rest.dll
+C:\Users\James\Source\Workspaces\TwitchDiscordBot\Main\TwitchDiscordBot\TwitchDiscordBot\bin\Debug\Discord.Net.Rpc.dll
+C:\Users\James\Source\Workspaces\TwitchDiscordBot\Main\TwitchDiscordBot\TwitchDiscordBot\bin\Debug\Discord.Net.Webhook.dll
+C:\Users\James\Source\Workspaces\TwitchDiscordBot\Main\TwitchDiscordBot\TwitchDiscordBot\bin\Debug\Discord.Net.WebSocket.dll
+C:\Users\James\Source\Workspaces\TwitchDiscordBot\Main\TwitchDiscordBot\TwitchDiscordBot\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\James\Source\Workspaces\TwitchDiscordBot\Main\TwitchDiscordBot\TwitchDiscordBot\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\James\Source\Workspaces\TwitchDiscordBot\Main\TwitchDiscordBot\TwitchDiscordBot\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\James\Source\Workspaces\TwitchDiscordBot\Main\TwitchDiscordBot\TwitchDiscordBot\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\James\Source\Workspaces\TwitchDiscordBot\Main\TwitchDiscordBot\TwitchDiscordBot\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\James\Source\Workspaces\TwitchDiscordBot\Main\TwitchDiscordBot\TwitchDiscordBot\bin\Debug\System.Collections.Immutable.dll
+C:\Users\James\Source\Workspaces\TwitchDiscordBot\Main\TwitchDiscordBot\TwitchDiscordBot\bin\Debug\System.Interactive.Async.dll
+C:\Users\James\Source\Workspaces\TwitchDiscordBot\Main\TwitchDiscordBot\TwitchDiscordBot\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\James\Source\Workspaces\TwitchDiscordBot\Main\TwitchDiscordBot\TwitchDiscordBot\bin\Debug\Discord.Net.Commands.xml
+C:\Users\James\Source\Workspaces\TwitchDiscordBot\Main\TwitchDiscordBot\TwitchDiscordBot\bin\Debug\Discord.Net.Core.xml
+C:\Users\James\Source\Workspaces\TwitchDiscordBot\Main\TwitchDiscordBot\TwitchDiscordBot\bin\Debug\Discord.Net.Rest.xml
+C:\Users\James\Source\Workspaces\TwitchDiscordBot\Main\TwitchDiscordBot\TwitchDiscordBot\bin\Debug\Discord.Net.Rpc.xml
+C:\Users\James\Source\Workspaces\TwitchDiscordBot\Main\TwitchDiscordBot\TwitchDiscordBot\bin\Debug\Discord.Net.Webhook.xml
+C:\Users\James\Source\Workspaces\TwitchDiscordBot\Main\TwitchDiscordBot\TwitchDiscordBot\bin\Debug\Discord.Net.WebSocket.xml
+C:\Users\James\Source\Workspaces\TwitchDiscordBot\Main\TwitchDiscordBot\TwitchDiscordBot\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\James\Source\Workspaces\TwitchDiscordBot\Main\TwitchDiscordBot\TwitchDiscordBot\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\James\Source\Workspaces\TwitchDiscordBot\Main\TwitchDiscordBot\TwitchDiscordBot\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\James\Source\Workspaces\TwitchDiscordBot\Main\TwitchDiscordBot\TwitchDiscordBot\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\James\Source\Workspaces\TwitchDiscordBot\Main\TwitchDiscordBot\TwitchDiscordBot\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\James\Source\Workspaces\TwitchDiscordBot\Main\TwitchDiscordBot\TwitchDiscordBot\bin\Debug\System.Collections.Immutable.xml
+C:\Users\James\Source\Workspaces\TwitchDiscordBot\Main\TwitchDiscordBot\TwitchDiscordBot\bin\Debug\System.Interactive.Async.xml
+C:\Users\James\Documents\Visual Studio 2017\Projects\TwitchDiscordBot\Main\TwitchDiscordBot\TwitchDiscordBot\bin\Debug\DiscordTwitchHookInfo.mdf
+C:\Users\James\Documents\Visual Studio 2017\Projects\TwitchDiscordBot\Main\TwitchDiscordBot\TwitchDiscordBot\bin\Debug\DiscordTwitchHookInfo_log.ldf
+C:\Users\James\Documents\Visual Studio 2017\Projects\TwitchDiscordBot\Main\TwitchDiscordBot\TwitchDiscordBot\bin\Debug\TwitchDiscordBot.exe.config
+C:\Users\James\Documents\Visual Studio 2017\Projects\TwitchDiscordBot\Main\TwitchDiscordBot\TwitchDiscordBot\bin\Debug\TwitchDiscordBot.exe
+C:\Users\James\Documents\Visual Studio 2017\Projects\TwitchDiscordBot\Main\TwitchDiscordBot\TwitchDiscordBot\bin\Debug\TwitchDiscordBot.pdb
+C:\Users\James\Documents\Visual Studio 2017\Projects\TwitchDiscordBot\Main\TwitchDiscordBot\TwitchDiscordBot\bin\Debug\Discord.Net.Commands.dll
+C:\Users\James\Documents\Visual Studio 2017\Projects\TwitchDiscordBot\Main\TwitchDiscordBot\TwitchDiscordBot\bin\Debug\Discord.Net.Core.dll
+C:\Users\James\Documents\Visual Studio 2017\Projects\TwitchDiscordBot\Main\TwitchDiscordBot\TwitchDiscordBot\bin\Debug\Discord.Net.Rest.dll
+C:\Users\James\Documents\Visual Studio 2017\Projects\TwitchDiscordBot\Main\TwitchDiscordBot\TwitchDiscordBot\bin\Debug\Discord.Net.Rpc.dll
+C:\Users\James\Documents\Visual Studio 2017\Projects\TwitchDiscordBot\Main\TwitchDiscordBot\TwitchDiscordBot\bin\Debug\Discord.Net.Webhook.dll
+C:\Users\James\Documents\Visual Studio 2017\Projects\TwitchDiscordBot\Main\TwitchDiscordBot\TwitchDiscordBot\bin\Debug\Discord.Net.WebSocket.dll
+C:\Users\James\Documents\Visual Studio 2017\Projects\TwitchDiscordBot\Main\TwitchDiscordBot\TwitchDiscordBot\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\James\Documents\Visual Studio 2017\Projects\TwitchDiscordBot\Main\TwitchDiscordBot\TwitchDiscordBot\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\James\Documents\Visual Studio 2017\Projects\TwitchDiscordBot\Main\TwitchDiscordBot\TwitchDiscordBot\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\James\Documents\Visual Studio 2017\Projects\TwitchDiscordBot\Main\TwitchDiscordBot\TwitchDiscordBot\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\James\Documents\Visual Studio 2017\Projects\TwitchDiscordBot\Main\TwitchDiscordBot\TwitchDiscordBot\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\James\Documents\Visual Studio 2017\Projects\TwitchDiscordBot\Main\TwitchDiscordBot\TwitchDiscordBot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\James\Documents\Visual Studio 2017\Projects\TwitchDiscordBot\Main\TwitchDiscordBot\TwitchDiscordBot\bin\Debug\Nito.AsyncEx.Concurrent.dll
+C:\Users\James\Documents\Visual Studio 2017\Projects\TwitchDiscordBot\Main\TwitchDiscordBot\TwitchDiscordBot\bin\Debug\Nito.AsyncEx.dll
+C:\Users\James\Documents\Visual Studio 2017\Projects\TwitchDiscordBot\Main\TwitchDiscordBot\TwitchDiscordBot\bin\Debug\Nito.AsyncEx.Enlightenment.dll
+C:\Users\James\Documents\Visual Studio 2017\Projects\TwitchDiscordBot\Main\TwitchDiscordBot\TwitchDiscordBot\bin\Debug\System.Collections.Immutable.dll
+C:\Users\James\Documents\Visual Studio 2017\Projects\TwitchDiscordBot\Main\TwitchDiscordBot\TwitchDiscordBot\bin\Debug\System.Interactive.Async.dll
+C:\Users\James\Documents\Visual Studio 2017\Projects\TwitchDiscordBot\Main\TwitchDiscordBot\TwitchDiscordBot\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\James\Documents\Visual Studio 2017\Projects\TwitchDiscordBot\Main\TwitchDiscordBot\TwitchDiscordBot\bin\Debug\TwitchLib.dll
+C:\Users\James\Documents\Visual Studio 2017\Projects\TwitchDiscordBot\Main\TwitchDiscordBot\TwitchDiscordBot\bin\Debug\websocket-sharp.dll
+C:\Users\James\Documents\Visual Studio 2017\Projects\TwitchDiscordBot\Main\TwitchDiscordBot\TwitchDiscordBot\bin\Debug\WebSocket4Net.dll
+C:\Users\James\Documents\Visual Studio 2017\Projects\TwitchDiscordBot\Main\TwitchDiscordBot\TwitchDiscordBot\bin\Debug\Discord.Net.Commands.xml
+C:\Users\James\Documents\Visual Studio 2017\Projects\TwitchDiscordBot\Main\TwitchDiscordBot\TwitchDiscordBot\bin\Debug\Discord.Net.Core.xml
+C:\Users\James\Documents\Visual Studio 2017\Projects\TwitchDiscordBot\Main\TwitchDiscordBot\TwitchDiscordBot\bin\Debug\Discord.Net.Rest.xml
+C:\Users\James\Documents\Visual Studio 2017\Projects\TwitchDiscordBot\Main\TwitchDiscordBot\TwitchDiscordBot\bin\Debug\Discord.Net.Rpc.xml
+C:\Users\James\Documents\Visual Studio 2017\Projects\TwitchDiscordBot\Main\TwitchDiscordBot\TwitchDiscordBot\bin\Debug\Discord.Net.Webhook.xml
+C:\Users\James\Documents\Visual Studio 2017\Projects\TwitchDiscordBot\Main\TwitchDiscordBot\TwitchDiscordBot\bin\Debug\Discord.Net.WebSocket.xml
+C:\Users\James\Documents\Visual Studio 2017\Projects\TwitchDiscordBot\Main\TwitchDiscordBot\TwitchDiscordBot\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\James\Documents\Visual Studio 2017\Projects\TwitchDiscordBot\Main\TwitchDiscordBot\TwitchDiscordBot\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\James\Documents\Visual Studio 2017\Projects\TwitchDiscordBot\Main\TwitchDiscordBot\TwitchDiscordBot\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\James\Documents\Visual Studio 2017\Projects\TwitchDiscordBot\Main\TwitchDiscordBot\TwitchDiscordBot\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\James\Documents\Visual Studio 2017\Projects\TwitchDiscordBot\Main\TwitchDiscordBot\TwitchDiscordBot\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\James\Documents\Visual Studio 2017\Projects\TwitchDiscordBot\Main\TwitchDiscordBot\TwitchDiscordBot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\James\Documents\Visual Studio 2017\Projects\TwitchDiscordBot\Main\TwitchDiscordBot\TwitchDiscordBot\bin\Debug\Nito.AsyncEx.xml
+C:\Users\James\Documents\Visual Studio 2017\Projects\TwitchDiscordBot\Main\TwitchDiscordBot\TwitchDiscordBot\bin\Debug\Nito.AsyncEx.Concurrent.xml
+C:\Users\James\Documents\Visual Studio 2017\Projects\TwitchDiscordBot\Main\TwitchDiscordBot\TwitchDiscordBot\bin\Debug\Nito.AsyncEx.Enlightenment.xml
+C:\Users\James\Documents\Visual Studio 2017\Projects\TwitchDiscordBot\Main\TwitchDiscordBot\TwitchDiscordBot\bin\Debug\System.Collections.Immutable.xml
+C:\Users\James\Documents\Visual Studio 2017\Projects\TwitchDiscordBot\Main\TwitchDiscordBot\TwitchDiscordBot\bin\Debug\System.Interactive.Async.xml
+C:\Users\James\Documents\Visual Studio 2017\Projects\TwitchDiscordBot\Main\TwitchDiscordBot\TwitchDiscordBot\bin\Debug\TwitchLib.xml
+C:\Users\James\Documents\Visual Studio 2017\Projects\TwitchDiscordBot\Main\TwitchDiscordBot\TwitchDiscordBot\obj\Debug\TwitchDiscordBot.csprojResolveAssemblyReference.cache
+C:\Users\James\Documents\Visual Studio 2017\Projects\TwitchDiscordBot\Main\TwitchDiscordBot\TwitchDiscordBot\obj\Debug\TwitchDiscordBot.DiscordBotInfo.resources
+C:\Users\James\Documents\Visual Studio 2017\Projects\TwitchDiscordBot\Main\TwitchDiscordBot\TwitchDiscordBot\obj\Debug\TwitchDiscordBot.TwitchBotInfo.resources
+C:\Users\James\Documents\Visual Studio 2017\Projects\TwitchDiscordBot\Main\TwitchDiscordBot\TwitchDiscordBot\obj\Debug\TwitchDiscordBot.csproj.GenerateResource.Cache
+C:\Users\James\Documents\Visual Studio 2017\Projects\TwitchDiscordBot\Main\TwitchDiscordBot\TwitchDiscordBot\obj\Debug\TwitchDiscordBot.exe
+C:\Users\James\Documents\Visual Studio 2017\Projects\TwitchDiscordBot\Main\TwitchDiscordBot\TwitchDiscordBot\obj\Debug\TwitchDiscordBot.pdb
