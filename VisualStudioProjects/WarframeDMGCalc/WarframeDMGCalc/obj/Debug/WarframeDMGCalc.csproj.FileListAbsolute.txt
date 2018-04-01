@@ -1,0 +1,8 @@
+c:\users\james\documents\visual studio 2015\Projects\WarframeDMGCalc\WarframeDMGCalc\bin\Debug\WarframeDMGCalc.exe.config
+c:\users\james\documents\visual studio 2015\Projects\WarframeDMGCalc\WarframeDMGCalc\obj\Debug\WarframeDMGCalc.csprojResolveAssemblyReference.cache
+c:\users\james\documents\visual studio 2015\Projects\WarframeDMGCalc\WarframeDMGCalc\bin\Debug\WarframeDMGCalc.exe
+c:\users\james\documents\visual studio 2015\Projects\WarframeDMGCalc\WarframeDMGCalc\bin\Debug\WarframeDMGCalc.pdb
+c:\users\james\documents\visual studio 2015\Projects\WarframeDMGCalc\WarframeDMGCalc\obj\Debug\WarframeDMGCalc.exe
+c:\users\james\documents\visual studio 2015\Projects\WarframeDMGCalc\WarframeDMGCalc\obj\Debug\WarframeDMGCalc.pdb
+C:\Users\James\documents\visual studio 2015\Projects\WarframeDMGCalc\WarframeDMGCalc\bin\Debug\intro.wav
+C:\Users\James\documents\visual studio 2015\Projects\WarframeDMGCalc\WarframeDMGCalc\bin\Debug\credits.wav

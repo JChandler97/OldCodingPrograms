@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{83F8F26B-830A-497E-B437-82835E946B81}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>WarframeDMGCalc</RootNamespace>
+    <AssemblyName>WarframeDMGCalc</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ArchwingWep.cs" />
+    <Compile Include="CreditPage.cs" />
+    <Compile Include="MeleeInnerChoice.cs" />
+    <Compile Include="MeleeWep\MeleeBladeWhip.cs" />
+    <Compile Include="MeleeWep\MeleeClaws.cs" />
+    <Compile Include="MeleeWep\MeleeDagger.cs" />
+    <Compile Include="MeleeWep\MeleeDualDagger.cs" />
+    <Compile Include="MeleeWep\MeleeDualSword.cs" />
+    <Compile Include="MeleeWep\MeleeFist.cs" />
+    <Compile Include="MeleeWep\MeleeGlaive.cs" />
+    <Compile Include="MeleeWep\MeleeGunBlade.cs" />
+    <Compile Include="MeleeWep\MeleeHammer.cs" />
+    <Compile Include="MeleeWep\MeleeHeavyBlade.cs" />
+    <Compile Include="MeleeWep\MeleeHybrid.cs" />
+    <Compile Include="MeleeWep\MeleeMachete.cs" />
+    <Compile Include="MeleeWep\MeleeNikana.cs" />
+    <Compile Include="MeleeWep\MeleeNunchaku.cs" />
+    <Compile Include="MeleeWep\MeleePolearm.cs" />
+    <Compile Include="MeleeWep\MeleeRapier.cs" />
+    <Compile Include="MeleeWep\MeleeScythe.cs" />
+    <Compile Include="MeleeWep\MeleeSparring.cs" />
+    <Compile Include="MeleeWep\MeleeStaff.cs" />
+    <Compile Include="MeleeWep\MeleeSwordShield.cs" />
+    <Compile Include="MeleeWep\MeleeTonfa.cs" />
+    <Compile Include="MeleeWep\MeleeWhip.cs" />
+    <Compile Include="PrimaryInnerChoice.cs" />
+    <Compile Include="PrimaryWep\PrimaryBow.cs" />
+    <Compile Include="PrimaryWep\PrimaryLauncher.cs" />
+    <Compile Include="PrimaryWep\PrimarySniper.cs" />
+    <Compile Include="PrimaryWep\PrimaryShotgun.cs" />
+    <Compile Include="MeleeWep\MeleeSword.cs" />
+    <Compile Include="PrimaryWep\PrimaryRifle.cs" />
+    <Compile Include="PrimaryWep\PrimarySpeargun.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SecondaryInnerChoice.cs" />
+    <Compile Include="SecondaryWep\SecondaryDual.cs" />
+    <Compile Include="SecondaryWep\SecondarySingle.cs" />
+    <Compile Include="SecondaryWep\SecondaryThrown.cs" />
+    <Compile Include="WelcomePage.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="credits.wav">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="intro.wav">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
