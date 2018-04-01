@@ -1,0 +1,31 @@
+c:\users\james\documents\visual studio 2015\Projects\YouTubeConverter\YouTubeConverter\bin\Debug\YouTubeConverter.exe.config
+C:\Users\James\documents\visual studio 2015\Projects\YouTubeConverter\YouTubeConverter\bin\Debug\YouTubeConverter.exe
+C:\Users\James\documents\visual studio 2015\Projects\YouTubeConverter\YouTubeConverter\bin\Debug\YouTubeConverter.pdb
+C:\Users\James\documents\visual studio 2015\Projects\YouTubeConverter\YouTubeConverter\obj\Debug\YouTubeConverter.csprojResolveAssemblyReference.cache
+C:\Users\James\documents\visual studio 2015\Projects\YouTubeConverter\YouTubeConverter\obj\Debug\YouTubeConverter.Form1.resources
+C:\Users\James\documents\visual studio 2015\Projects\YouTubeConverter\YouTubeConverter\obj\Debug\YouTubeConverter.Properties.Resources.resources
+C:\Users\James\documents\visual studio 2015\Projects\YouTubeConverter\YouTubeConverter\obj\Debug\YouTubeConverter.csproj.GenerateResource.Cache
+C:\Users\James\documents\visual studio 2015\Projects\YouTubeConverter\YouTubeConverter\obj\Debug\YouTubeConverter.exe
+C:\Users\James\documents\visual studio 2015\Projects\YouTubeConverter\YouTubeConverter\obj\Debug\YouTubeConverter.pdb
+C:\Users\James\documents\visual studio 2015\Projects\YouTubeConverter\YouTubeConverter\bin\Debug\libvideo.dll
+C:\Users\James\documents\visual studio 2015\Projects\YouTubeConverter\YouTubeConverter\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\James\documents\visual studio 2015\Projects\YouTubeConverter\YouTubeConverter\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\James\documents\visual studio 2015\Projects\YouTubeConverter\YouTubeConverter\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\James\documents\visual studio 2015\Projects\YouTubeConverter\YouTubeConverter\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\James\documents\visual studio 2015\Projects\YouTubeConverter\YouTubeConverter\obj\Debug\YouTubeConverter.csproj.ResolveComReference.cache
+D:\1VisualStudioProjects\YouTubeConverter\YouTubeConverter\bin\Debug\YouTubeConverter.exe.config
+D:\1VisualStudioProjects\YouTubeConverter\YouTubeConverter\bin\Debug\YouTubeConverter.exe
+D:\1VisualStudioProjects\YouTubeConverter\YouTubeConverter\bin\Debug\YouTubeConverter.pdb
+D:\1VisualStudioProjects\YouTubeConverter\YouTubeConverter\bin\Debug\libvideo.dll
+D:\1VisualStudioProjects\YouTubeConverter\YouTubeConverter\bin\Debug\Interop.ShockwaveFlashObjects.dll
+D:\1VisualStudioProjects\YouTubeConverter\YouTubeConverter\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+D:\1VisualStudioProjects\YouTubeConverter\YouTubeConverter\obj\Debug\YouTubeConverter.csprojResolveAssemblyReference.cache
+D:\1VisualStudioProjects\YouTubeConverter\YouTubeConverter\obj\Debug\Interop.ShockwaveFlashObjects.dll
+D:\1VisualStudioProjects\YouTubeConverter\YouTubeConverter\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+D:\1VisualStudioProjects\YouTubeConverter\YouTubeConverter\obj\Debug\YouTubeConverter.csproj.ResolveComReference.cache
+D:\1VisualStudioProjects\YouTubeConverter\YouTubeConverter\obj\Debug\YouTubeConverter.Form1.resources
+D:\1VisualStudioProjects\YouTubeConverter\YouTubeConverter\obj\Debug\YouTubeConverter.Properties.Resources.resources
+D:\1VisualStudioProjects\YouTubeConverter\YouTubeConverter\obj\Debug\YouTubeConverter.csproj.GenerateResource.Cache
+D:\1VisualStudioProjects\YouTubeConverter\YouTubeConverter\obj\Debug\YouTubeConverter.csproj.CoreCompileInputs.cache
+D:\1VisualStudioProjects\YouTubeConverter\YouTubeConverter\obj\Debug\YouTubeConverter.exe
+D:\1VisualStudioProjects\YouTubeConverter\YouTubeConverter\obj\Debug\YouTubeConverter.pdb
