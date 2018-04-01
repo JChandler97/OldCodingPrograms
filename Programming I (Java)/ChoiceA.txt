@@ -1,0 +1,30 @@
+// James Chandler
+// IS 1300
+
+import java.util.Scanner;
+public class ChoiceA {
+	public static void main(String [] args){
+
+
+
+
+
+
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
